@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+
+$ echo "ref: refs/Heads/master" > .git/HEAD
